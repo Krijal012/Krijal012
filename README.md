@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **SafeMarga (a landslide risk monitoring and alert system)**
 
-- 🌱 I’m currently learning **JavaScript and MERN Stack**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Krijal012?tab=repositories](https://github.com/Krijal012?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, JavaScript and React**
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **krijalshrestha7@gmail.com**
 
